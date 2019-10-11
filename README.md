@@ -1,3 +1,7 @@
+# Live example
+
+https://infinite-loader.vandyw95.now.sh/
+
 # How to run
 
 npm install && npm run dev
