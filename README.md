@@ -43,3 +43,11 @@ Act as an entry point or file directory as a route
 pages/index.js => host-domain/
 
 pages/profile.js => host-domain/profile
+
+## config
+
+app or webpack related configurations
+
+## utils
+
+Contain generic app related tools/utilities
