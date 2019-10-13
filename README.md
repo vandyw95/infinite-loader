@@ -2,13 +2,17 @@
 
 https://infinite-loader.vandyw95.now.sh/
 
-# How to run
+# How to run on your local
 
-npm install && npm run dev
+```
+npm ci && npm run dev
+```
 
 OR
 
-npm install && npm run build && npm start
+```
+npm ci && npm run build && npm start
+```
 
 then access
 
@@ -16,7 +20,7 @@ http://localhost:3000
 
 # Overview
 
-This project uses Hybrid SSR design powered by nextjs.
+This project is using a Hybrid SSR design powered by nextjs.
 
 Main packages:
 
@@ -39,7 +43,3 @@ Act as an entry point or file directory as a route
 pages/index.js => host-domain/
 
 pages/profile.js => host-domain/profile
-
-## components
-
-Store all general components
